@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"disken-dev.products"},{"v":2,"unique":true,"key":{"sku":1},"name":"sku_1","ns":"disken-dev.products","background":true},{"v":2,"key":{"barcode":1},"name":"barcode_1","ns":"disken-dev.products"}],"uuid":"f4327b9d49d44e079dcb10f58180ea3c"}
